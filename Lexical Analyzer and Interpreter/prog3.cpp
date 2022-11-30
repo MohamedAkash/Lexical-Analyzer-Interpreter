@@ -1,11 +1,3 @@
-/* Programming Assignment 4
- * 
- * main.cpp
- *
- * CS280 - Fall 2020
- * parser and interpreter testing program
- */
-
 #include <iostream>
 #include <fstream>
 
