@@ -1,8 +1,3 @@
-/*
- * lex.cpp
- *
- * CS280 - Fall 2021
- */
 
 #include <cctype>
 #include <map>
